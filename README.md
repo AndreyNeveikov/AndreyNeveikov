@@ -1,2 +1,29 @@
-# Profile_descriptions
-Profile descriptions
+- 👋 Hi, I’m Andrey, developer and data scientist
+- 👀 I’m interested in data analytics and artificial intelligence projects
+- 🌱 I’m currently learning everything 
+- 💞️ I’m looking for a job
+- 📫 How to reach me alfa_work_mail@mail.ru
+
+
+### Tools and languages
+
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=FFD243)
+![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=2077BE)
+<br>
+![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-090909?style=for-the-badge&logo=Jupyternotebook%20notebook&logoColor=F37821)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-090909?style=for-the-badge&logo=matplotlib&logoColor=FFFFFF)
+![NumPy](https://img.shields.io/badge/-NumPy-090909?style=for-the-badge&logo=NumPy&logoColor=FFFFFF)
+![Librosa](https://img.shields.io/badge/-Librosa-090909?style=for-the-badge&logo=librosa&logoColor=8000AA)
+
+
+### Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyNeveikov)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!---
+AndreyNeveikov/AndreyNeveikov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
