@@ -17,7 +17,8 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-090909?style=for-the-badge&logo=NumPy&logoColor=FFFFFF)
 ![Librosa](https://img.shields.io/badge/-Librosa-090909?style=for-the-badge&logo=librosa&logoColor=8000AA)
 ![Sckikit-Learn](https://img.shields.io/badge/-SckikitLearn-090909?style=for-the-badge&logo=SckikitLearn&logoColor=FFFFFF)
-
+![ImageAI](https://img.shields.io/badge/-ImageAI-090909?style=for-the-badge&logo=ImageAI&logoColor=FFFFFF)
+![OpenCV](https://img.shields.io/badge/-OpenCV-090909?style=for-the-badge&logo=OpenCV&logoColor=FFFFFF)
 
 ### Stats
 
