@@ -11,10 +11,10 @@
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=2077BE)
 <br>
-![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-090909?style=for-the-badge&logo=Jupyternotebook%20notebook&logoColor=F37821)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-090909?style=for-the-badge&logo=matplotlib&logoColor=FFFFFF)
 ![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=Pandas&logoColor=FFFFFF)
 ![NumPy](https://img.shields.io/badge/-NumPy-090909?style=for-the-badge&logo=NumPy&logoColor=FFFFFF)
+![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-090909?style=for-the-badge&logo=Jupyternotebook%20notebook&logoColor=F37821)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-090909?style=for-the-badge&logo=matplotlib&logoColor=FFFFFF)
 ![Librosa](https://img.shields.io/badge/-Librosa-090909?style=for-the-badge&logo=librosa&logoColor=8000AA)
 ![Sckikit-Learn](https://img.shields.io/badge/-SckikitLearn-090909?style=for-the-badge&logo=SckikitLearn&logoColor=FFFFFF)
 ![ImageAI](https://img.shields.io/badge/-ImageAI-090909?style=for-the-badge&logo=ImageAI&logoColor=FFFFFF)
