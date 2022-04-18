@@ -16,10 +16,10 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-090909?style=for-the-badge&logo=OpenCV&logoColor=FFFFFF)
 ![Keras](https://img.shields.io/badge/-Keras-090909?style=for-the-badge&logo=Keras&logoColor=FFFFFF)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=TensorFlow&logoColor=FFFFFF)
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-090909?style=for-the-badge&logo=ScikitLearn&logoColor=FFFFFF)
 ![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-090909?style=for-the-badge&logo=Jupyternotebook%20notebook&logoColor=F37821)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-090909?style=for-the-badge&logo=matplotlib&logoColor=FFFFFF)
 ![Librosa](https://img.shields.io/badge/-Librosa-090909?style=for-the-badge&logo=librosa&logoColor=8000AA)
-![Sckikit-Learn](https://img.shields.io/badge/-SckikitLearn-090909?style=for-the-badge&logo=SckikitLearn&logoColor=FFFFFF)
 ![ImageAI](https://img.shields.io/badge/-ImageAI-090909?style=for-the-badge&logo=ImageAI&logoColor=FFFFFF)
 
 ### Stats
