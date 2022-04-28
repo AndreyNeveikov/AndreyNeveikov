@@ -3,12 +3,13 @@
 - 🌱 I’m currently learning everything 
 - 💞️ I’m looking for a job
 - 📫 How to reach me alfa_work_mail@mail.ru
-
+<br>
+<br>
 - 👀 My Codewars profile https://www.codewars.com/users/andrenalin_n
 - 👀 My Kaggle profile https://www.kaggle.com/andrenalin
 
 <br>
-
+<br>
 ### Tools and languages
 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=FFD243)
@@ -25,6 +26,8 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-090909?style=for-the-badge&logo=matplotlib&logoColor=FFFFFF)
 ![Librosa](https://img.shields.io/badge/-Librosa-090909?style=for-the-badge&logo=librosa&logoColor=8000AA)
 ![ImageAI](https://img.shields.io/badge/-ImageAI-090909?style=for-the-badge&logo=ImageAI&logoColor=FFFFFF)
+
+<br>
 
 ### Stats
 
