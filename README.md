@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andrey, developer and data scientist
-- 👀 I’m interested in data analytics and artificial intelligence projects
-- 🌱 I’m currently learning everything 
-- 💞️ I’m looking for a job
+- 👀 I’m interested in data analytics and artificial intelligence
+- 🌱 I’m currently learning Cloud ETL techniques 
+- 💞️ I’m looking for a interesting AWS projects
 - 📫 How to reach me alfa_work_mail@mail.ru
 <br>
 <br> 
@@ -17,6 +17,8 @@
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=FFD243)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=2077BE)
+![AWS](https://img.shields.io/badge/-AWS-090909?style=for-the-badge&logo=aws&logoColor=2077BE)
+![SSIS](https://img.shields.io/badge/-SSIS-090909?style=for-the-badge&logo=ssis&logoColor=2077BE)
 <br>
 ![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=Pandas&logoColor=FFFFFF)
 ![NumPy](https://img.shields.io/badge/-NumPy-090909?style=for-the-badge&logo=NumPy&logoColor=FFFFFF)
