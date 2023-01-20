@@ -4,6 +4,10 @@
 - 💞️ I’m looking for a interesting AWS projects
 - 📫 How to reach me alfa_work_mail@mail.ru
 <br>
+<br>
+Python Developer at Innowise: 2023 - now. 
+<br> 
+Cloud ETL Developer at Datamola: 2022
 <br> 
  
 - 👀 My Codewars profile https://www.codewars.com/users/andrenalin_n
