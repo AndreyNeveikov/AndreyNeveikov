@@ -18,18 +18,18 @@ Cloud ETL Developer at Datamola: 2022
 <br>
 ### Tools and languages
 
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=FFD243)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=4370FF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=FFD243)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=2077BE)
 ![AWS](https://img.shields.io/badge/-AWS-090909?style=for-the-badge&logo=aws&logoColor=2077BE)
 ![SSIS](https://img.shields.io/badge/-SSIS-090909?style=for-the-badge&logo=ssis&logoColor=2077BE)
 <br>
-![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=FFD243)
-![DRF](https://img.shields.io/badge/-DRF-090909?style=for-the-badge&logo=DRF&logoColor=FFD243)
+![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=008F97)
+![DRF](https://img.shields.io/badge/-DRF-090909?style=for-the-badge&logo=DRF&logoColor=008F97)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-090909?style=for-the-badge&logo=FastAPI&logoColor=FFD243)
 <br>
-![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=FFD243)
-![Terraform](https://img.shields.io/badge/-Terraform-090909?style=for-the-badge&logo=terraform&logoColor=FFD243)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=0066E4)
+![Terraform](https://img.shields.io/badge/-Terraform-090909?style=for-the-badge&logo=terraform&logoColor=5F59AB)
 <br>
 
 ### Familiar with
