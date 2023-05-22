@@ -11,20 +11,28 @@ Cloud ETL Developer at Datamola: 2022
 <br> 
 <br>
 <br>
-- 👀 My Codewars profile https://www.codewars.com/users/andrenalin_n
- 
-- 👀 My Kaggle profile https://www.kaggle.com/andrenalin
+
+👀 My Codewars profile https://www.codewars.com/users/andrenalin_n
 
 <br>
 <br>
 ### Tools and languages
 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=FFD243)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=FFD243)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=2077BE)
 ![AWS](https://img.shields.io/badge/-AWS-090909?style=for-the-badge&logo=aws&logoColor=2077BE)
 ![SSIS](https://img.shields.io/badge/-SSIS-090909?style=for-the-badge&logo=ssis&logoColor=2077BE)
 <br>
+![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=FFD243)
+![DRF](https://img.shields.io/badge/-DRF-090909?style=for-the-badge&logo=DRF&logoColor=FFD243)
+![FastAPI](https://img.shields.io/badge/-FastAPI-090909?style=for-the-badge&logo=FastAPI&logoColor=FFD243)
+<br>
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=FFD243)
+![Terraform](https://img.shields.io/badge/-Terraform-090909?style=for-the-badge&logo=terraform&logoColor=FFD243)
+<br>
+
+### Familiar with
 ![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=Pandas&logoColor=FFFFFF)
 ![NumPy](https://img.shields.io/badge/-NumPy-090909?style=for-the-badge&logo=NumPy&logoColor=FFFFFF)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-090909?style=for-the-badge&logo=OpenCV&logoColor=FFFFFF)
