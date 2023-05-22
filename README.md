@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Andrey, developer and data scientist
-- 👀 I’m interested in data analytics and artificial intelligence
+- 👋 Hi, I’m Andrey, backend developer 
+- 👀 I’m interested in finance domain
 - 🌱 I’m currently learning Cloud ETL techniques 
-- 💞️ I’m looking for a interesting AWS projects
+- 💞️ I’m looking for a new opportunities
 - 📫 How to reach me alfa_work_mail@mail.ru
 <br>
 <br>
