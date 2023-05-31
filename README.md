@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrey, backend developer 
 - 👀 I’m interested in finance domain
-- 🌱 I’m currently learning Cloud ETL techniques 
+- 🌱 I’m currently learning Web Development techniques 
 - 💞️ I’m looking for a new opportunities
 - 📫 How to reach me alfa_work_mail@mail.ru
 <br>
