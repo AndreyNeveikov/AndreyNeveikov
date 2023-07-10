@@ -22,6 +22,7 @@ Cloud ETL Developer at Datamola: 2022
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=FFD243)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=2077BE)
 ![AWS](https://img.shields.io/badge/-AWS-090909?style=for-the-badge&logo=aws&logoColor=2077BE)
+![AZURE](https://img.shields.io/badge/-AZURE-090909?style=for-the-badge&logo=azure&logoColor=4370FF)
 ![SSIS](https://img.shields.io/badge/-SSIS-090909?style=for-the-badge&logo=ssis&logoColor=2077BE)
 <br>
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=008F97)
@@ -30,6 +31,10 @@ Cloud ETL Developer at Datamola: 2022
 <br>
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=0066E4)
 ![Terraform](https://img.shields.io/badge/-Terraform-090909?style=for-the-badge&logo=terraform&logoColor=5F59AB)
+<br>
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=4F84DB)
+![MSSQL](https://img.shields.io/badge/-MSSQL-090909?style=for-the-badge&logo=mssql&logoColor=E7C5BB)
+![Redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=redis&logoColor=F91A00)
 <br>
 
 ### Familiar with
