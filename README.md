@@ -5,9 +5,9 @@
 - 📫 How to reach me alfa_work_mail@mail.ru
 <br>
 <br>
-Python Developer at Innowise: 2023 - now. 
+Python Backend Developer at Innowise: 2023 - now. 
 <br> 
-Cloud ETL Developer at Datamola: 2022
+Python Cloud ETL Developer at Datamola: 2022
 <br> 
 <br>
 <br>
