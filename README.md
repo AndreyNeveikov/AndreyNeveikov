@@ -20,6 +20,7 @@ Python Cloud ETL Developer at Datamola: 2022
 ### Tools and languages
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=4370FF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=FFD243)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=2077BE)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=2077BE)
 ![AWS](https://img.shields.io/badge/-AWS-090909?style=for-the-badge&logo=aws&logoColor=2077BE)
 ![AZURE](https://img.shields.io/badge/-AZURE-090909?style=for-the-badge&logo=azure&logoColor=4370FF)
