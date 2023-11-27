@@ -1,13 +1,13 @@
-- 👋 Hi, I’m Andrey, backend developer 
-- 👀 I’m interested in finance domain
+- 👋 Hi, I’m Andrey, the backend developer 
+- 👀 I’m interested in the finance domain
 - 🌱 I’m currently learning Web Development techniques 
-- 💞️ I’m looking for a new opportunities
-- 📫 How to reach me alfa_work_mail@mail.ru
+- 💞️ I’m looking for new opportunities
+- 📫 How to reach me andeyneveikov@gmail.com
 <br>
 <br>
-Python Backend Developer at Innowise: 2023 - now. 
+Now: Python Backend Developer at Innowise. 
 <br> 
-Python Cloud ETL Developer at Datamola: 2022
+Before: Python Cloud ETL Developer at Datamola.
 <br> 
 <br>
 <br>
